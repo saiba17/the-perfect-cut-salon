@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  /* Define your fonts here */
+  --font-cormorant: "Cormorant Garamond", serif;
+  --font-montserrat: "Montserrat", sans-serif;
+
+  /* Define your custom brand colors */
+  --color-gold: #C5A059;
+  --color-brand-bg: #F4F1EE;
+}
